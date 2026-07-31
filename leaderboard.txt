@@ -1,0 +1,7 @@
+Mah Noor|900|Easy|2026-06-07 10:06
+FINLAND|1300|Medium|2026-06-07 13:54
+Future Officer|800|Easy|2026-06-07 15:46
+Future Officer|1600|Medium|2026-06-07 15:47
+Future Officer|1950|Hard|2026-06-07 15:50
+Peace|650|Easy|2026-06-09 12:57
+Peace|800|Easy|2026-06-09 12:58
